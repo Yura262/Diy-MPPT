@@ -86,4 +86,5 @@ In process, I got carried away and crammed all drive circuitry in 2*3cm place
 
 Project is in temporary state rn, because I got a LiFePo4 280ah 4s battery and it charges better if plugged in directly (solar mpp is lower than battery voltage). And issues while using the mppt with qc modules require further investigation (output voltage drops too much and qc resets)
 
+![image](https://github.com/user-attachments/assets/1c63a53f-ff72-4820-a349-3b19b6ed7765)
 
